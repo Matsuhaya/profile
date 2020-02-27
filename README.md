@@ -55,7 +55,7 @@
 
 **関連技術**
 
-`JavaScript/Node.js/MongoDB/Swagger/Heroku/GitHub/Trello/Slack`
+`JavaScript/Node.js/Express/Mongoose/MongoDB/Swagger/Heroku/GitHub/Trello/Slack`
 
 ## プロフィール
 
@@ -78,4 +78,8 @@
   知り合いの起業の手伝いという形で、チームでのプロダクト開発や調整業務を担当した。
 ```
 
-## 2019 年 3 月からの活動の記録
+## 学習記録
+
+長いので、別リンクに掲載
+
+[2019 年 2 月に退職してから 1 年間の学習記録](https://hackmd.io/@-2VhdOwCQGeZrRmdP1g8aQ/rJairjQVI)
