@@ -106,3 +106,12 @@ GA を体感できるシンプルなシミュレータを制作しました。
 長いので、別リンクに掲載
 
 [2019 年 2 月に退職してから 1 年間の学習記録](https://hackmd.io/@-2VhdOwCQGeZrRmdP1g8aQ/rJairjQVI)
+
+## 就職活動中
+
+ソフトウェアエンジニアとしての実務未経験です。
+サーバーサイドでコードがたくさん書ける仕事を希望しています。
+
+<p align="center">
+<img src="./data/profile-xmind.png" alt="プロフィール">
+</p>
