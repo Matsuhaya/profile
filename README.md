@@ -80,6 +80,37 @@ GA を体感できるシンプルなシミュレータを制作しました。
 
 `JavaScript/Node.js/Express/Mongoose/MongoDB/Swagger/Heroku/GitHub/Trello/Slack`
 
+<hr>
+
+### [レシピ検索アプリ](https://github.com/Matsuhaya/todays-recipe-searcher)
+
+<p align="center">
+<img src="./data/todays-recipe-searcher.gif" alt="レシピ検索アプリ" width=50%>
+</p>
+
+**概要**
+
+食材からレシピを検索します。
+必要な材料を調達するのに便利です。
+リンク先は楽天レシピのページです。
+MERNStack で構築しました。
+
+### レシピデータ
+
+[楽天レシピ系 API](https://webservice.rakuten.co.jp/document/)を活用
+
+所得可能なレシピデータはランキング上位の数件なので、一定時間ごとにレシピデータを所得して DB に登録するバッチ処理を作成しました。
+バッチ処理は指定のエンドポイントで動作するようにしており、2000 件以上のレシピデータを DB に更新します。
+
+### 検索システム
+
+食材を入力すると、該当の食材を含むレシピがリアクティブに表示できます。
+複数指定する検索も可能です。
+
+**関連技術**
+
+`JavaScript/Node.js/Express/MongoDB/React.js/Heroku`
+
 ## プロフィール
 
 ```
